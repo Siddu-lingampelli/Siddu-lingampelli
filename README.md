@@ -1,24 +1,100 @@
-# Hi, I’m Siddhartha👋
+# Hi, I'm Siddhartha 👋
 
-I’m an aspiring web developer passionate about building things that make life easier.  
-Currently diving deep into JavaScript and the MERN stack.  
+I'm a Computer Science student from Hyderabad, India.
 
-In the future, I’m excited to learn Python and explore AI projects!
+I like building developer tools, CLI utilities, and AI infrastructure that solve everyday problems.
 
-## Skills  
-- JavaScript | React | Node.js | Express | MongoDB  
-- HTML | CSS  
-- Learning Python & AI
+Right now I'm focused on open source and shipping projects consistently.
 
-## What I'm working on  
-- Web development projects  
-- Improving my coding skills every day
+---
 
-## Find me on  
+## Current Projects
 
+### mem
 
-### 📊 GitHub Stats:
+A CLI for searching terminal history without digging through hundreds of previous commands.
 
-![Siddhartha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddu-lingampelli&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&v=1)
+Instead of trying to remember the exact command, you can search using a few words.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddu-lingampelli&layout=compact&theme=react&hide_border=true)
+```bash
+mem "docker compose"
+mem "git rebase"
+mem "npm run build"
+```
+
+Repository:
+https://github.com/Siddu-lingampelli/mem
+
+---
+
+### Local AI Gateway (Work in Progress)
+
+An OpenAI-compatible gateway that lets applications switch between multiple AI providers through a single API.
+
+Current focus:
+
+- Provider routing
+- Failover
+- Local-first architecture
+- Developer experience
+
+---
+
+## Things I enjoy building
+
+- Developer tools
+- CLI applications
+- AI infrastructure
+- Automation
+- Open-source software
+
+---
+
+## Tech I use
+
+**Languages**
+
+TypeScript • JavaScript • Python • SQL
+
+**Frontend**
+
+React • Next.js • Tailwind CSS
+
+**Backend**
+
+Node.js • Express • Fastify
+
+**Database**
+
+SQLite • PostgreSQL • MongoDB
+
+**Cloud & DevOps**
+
+Docker • GitHub Actions • AWS • Oracle Cloud • Azure • Nginx
+
+---
+
+## Current Goal
+
+Ship useful open-source software that developers actually use.
+
+I'm aiming to release more small, focused tools instead of large unfinished projects.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Siddu-lingampelli&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddu-lingampelli&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+## Find me
+
+LinkedIn
+https://www.linkedin.com/in/siddu-lingampelli
+
+Email
+siddulingampelli460@gmail.com
