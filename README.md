@@ -82,15 +82,6 @@ I'm aiming to release more small, focused tools instead of large unfinished proj
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Siddu-lingampelli&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddu-lingampelli&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
 ## Find me
 
 LinkedIn
